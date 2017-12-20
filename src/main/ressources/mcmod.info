@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ZokosStuff",
+  "name": "Zoko's Stuff",
+  "description": "A mod for a few Tweaks",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zoko 160602"],
+  "credits": "Zoko author of this Modpack",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
